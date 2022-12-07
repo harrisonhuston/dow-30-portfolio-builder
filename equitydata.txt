@@ -1,0 +1,30 @@
+AXP, American Express Company, 175.15, 1.23, 20.37, 1.72, 0.99, Financial Services
+AMGN, Amgen Inc., 208.95, 0.68, 21.19, 7.04, 3.37, Healthcare
+AAPL, Apple Inc., 142.90, 1.22, 27.98, 0.88, 0.61, Technology
+BA, The Boeing Company, 226.39, 1.57, 0.0, 0.0, 0.0, Industrials
+CAT, Caterpillar Inc., 195.16, 0.93, 24.50, 4.44, 2.27, Industrials
+CSCO, Cisco Systems, Inc., 55.04, 0.92, 22.10, 1.48, 2.68, Technology
+CVX, Chevron Corporation, 108.05, 1.24, 57.35, 5.36, 5.07, Energy
+GS, The Goldman Sachs Group Inc., 392.81, 1.5, 54.46, 8.0, 2.05, Fincancial Services
+HD, The Home Depot Inc., 334.34, 0.99, 23.55, 6.6, 1.96, Consumer Cyclical
+HON, Honeywell International Inc., 217.70, 1.19, 31.38, 3.92, 1.78, Industrials
+IBM, International Business Machines Corporation, 143.22, 1.18, 24.20, 6.56, 4.63, Technology
+INTC, Intel Corporation, 53.81, 0.59, 11.95, 1.39, 2.57, Technology
+JNJ, Johnson & Johnson, 160.93, 0.72, 24.19, 4.24, 2.63, Healthcare
+KO, The Coca-Cola Company, 54.12, 0.64, 28.93, 1.68, 3.12, Consumer Defensive
+JPM, JPMorgan Chase & Co., 170.22, 1.14, 11.36, 4.0, 2.35, Financial Services
+MCD, McDonald's Corporation, 247.70, 0.60, 26.96, 5.52, 2.22, Consumer Cyclical
+MMM, 3M Company, 176.95, 0.98, 17.50, 5.92, 3.33, Industrials
+MRK, Merck & Co., 80.63, 0.42, 36.72, 2.60, 3.17, Healthcare
+MSFT, Microsoft Corporation, 294.85, 0.80, 37.79, 2.48, 0.84, Technology
+NKE, NIKE Inc., 152.48, 0.90, 40.43, 1.10, 0.72, Consumer Cyclical
+PG, The Proctor & Gamble Company, 141.73, 0.42, 25.77, 3.48, 2.44, Consumer Defensive
+TRV, The Travelers Companies, Inc., 157.33, 0.77, 10.58, 3.52, 2.24, Financial Services
+UNH, UnitedHealth Group Incorporated, 408.46, 0.79, 26.98, 5.80, 1.43, Healthcare
+CRM, salesforce.com inc., 272.48, 1.04, 109.12, 0.0, 0.0, Technology
+VZ, Verizon Communications Inc., 53.24, 0.45, 11.03, 2.56, 4.75, Communication Services
+V, Visa Inc., 230.27, 0.97, 46.57, 1.28, 0.56, Financial Services
+WBA, Walgreens Boots Alliance Inc., 47.38, 0.50, 17.91, 1.91, 3.99, Healthcare
+WMT, Walmart Inc., 139.50, 0.50, 39.31, 2.20, 1.58, Consumer Defensive
+DIS, The Walt Disney Company, 176.74, 1.20, 289.74, 0.0, 0.0, Communication Services
+DOW, Dow Inc., 58.71, 1.71, 10.74, 2.80, 4.90, Basic Materials
