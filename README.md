@@ -1,4 +1,4 @@
-README
+# DOW 30 Portfolio Builder
 
   This project is an interactive financial portfolio builder based on user input from the DOW 30 equity index components. The program allows users to create a 
   hypothetical DOW 30 equity portfolio. It utilizes a step by step format to guide users through its creation. Depending on the user input, the portfolio builder 
