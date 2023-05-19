@@ -6,3 +6,5 @@
   equities, their equity vs cash asset allocation, their equity portfolio's weighted average beta, weighted average p/e ratio, annual forward dividend, annual forward 
   dividend yield, and a sector weighted breakdown of their equity positions. It also includes a summary of their individual equity positions. The program is built with 
   Python and utilizes text files.
+  
+  Harrison Huston, 2021
